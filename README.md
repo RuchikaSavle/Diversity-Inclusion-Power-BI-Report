@@ -86,9 +86,8 @@ Feel free to open an **issue** or submit a **pull request**.
 
 ## 📬 Contact
 
-👤 *Your Name*  
-🔗 LinkedIn: *your-link*  
-📧 Email: *you@example.com*
+👤 *Ruchika Savle*  
+📧 Email: *savleruchika@gmail.com*
 
 ---
 
